@@ -1,5 +1,11 @@
 # Sistema de almacenamiento para productos alimenticios
 
+## Integrantes:
+
+- Carlos Asparrin Martin
+- Arias Cjuno Brandon
+- Sanchez Lazarte Wilton
+
 ## Funcionalidades:
 - Agregar productos.
 - Quitar productos.
@@ -39,6 +45,11 @@
   - Eliminar una categoría de un árbol.
   - Recorrer un árbol en distintos órdenes (**preorden**, **inorden**, **postorden**).
   - La accesibilidad a las ramificaciones del árbol.
+<<<<<<< HEAD:Guia de desarrollo.md
  ***********
+=======
+
+ 
+>>>>>>> e3746f2abada29f3638e3b83154236fe584b2d34:Readme.md
 [Enlace del word](https://docs.google.com/document/d/1v8pFHU8PxnK6YCGrGhDgy2ZXCB6W798Fu4QG94msucs/edit?usp=sharing)
 
