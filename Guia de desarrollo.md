@@ -39,6 +39,6 @@
   - Eliminar una categoría de un árbol.
   - Recorrer un árbol en distintos órdenes (**preorden**, **inorden**, **postorden**).
   - La accesibilidad a las ramificaciones del árbol.
- 
+ ***********
 [Enlace del word](https://docs.google.com/document/d/1v8pFHU8PxnK6YCGrGhDgy2ZXCB6W798Fu4QG94msucs/edit?usp=sharing)
 
