@@ -3,6 +3,7 @@
 ## Integrantes:
 
 - Carlos Asparrin Martin
+- Arias Cjuno Brandon
 
 ## Funcionalidades:
 - Agregar productos.
