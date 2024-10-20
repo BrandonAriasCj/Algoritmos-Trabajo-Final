@@ -39,44 +39,7 @@
   - Eliminar una categoría de un árbol.
   - Recorrer un árbol en distintos órdenes (**preorden**, **inorden**, **postorden**).
   - La accesibilidad a las ramificaciones del árbol.
- 
 
-
-------------------------------------- GUIA ESTRUCTURA ---------------------------------------------
-/proyecto-almacenamiento-productos
-│
-├── /src
-│   ├── /data_structures
-│   │   ├── linked_list.py          # Implementación de listas enlazadas.
-│   │   ├── stack.py                # Implementación de pilas (LIFO).
-│   │   ├── queue.py                # Implementación de colas (FIFO).
-│   │   ├── tree.py                 # Implementación de árboles para clasificación y búsqueda.
-│   │
-│   ├── /models
-│   │   ├── product.py              # Modelo de datos para productos.
-│   │   ├── perishable.py           # Modelo para productos perecibles.
-│   │   ├── non_perishable.py       # Modelo para productos no perecibles.
-│   │
-│   ├── main.py                     # Archivo principal que ejecuta el sistema.
-│   ├── product_manager.py          # Módulo de gestión de productos (agregar, eliminar, buscar, editar).
-│   └── utils.py                    # Funciones auxiliares y de utilidad.
-│
-├── /tests
-│   ├── test_linked_list.py         # Pruebas para listas enlazadas.
-│   ├── test_stack.py               # Pruebas para pilas.
-│   ├── test_queue.py               # Pruebas para colas.
-│   ├── test_tree.py                # Pruebas para árboles.
-│   ├── test_product_manager.py     # Pruebas para el gestor de productos.
-│
-├── /docs
-│   ├── README.md                   # Documentación general del proyecto.
-│   └── estructura_datos.md         # Detalles de las estructuras de datos usadas.
-│
-├── requirements.txt                # Dependencias del proyecto.
-└── .gitignore                      # Archivos a ignorar en el control de versiones.
-
-
-----------------------------------------------------------------------------------
  
 [Enlace del word](https://docs.google.com/document/d/1v8pFHU8PxnK6YCGrGhDgy2ZXCB6W798Fu4QG94msucs/edit?usp=sharing)
 
