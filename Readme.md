@@ -1,5 +1,9 @@
 # Sistema de almacenamiento para productos alimenticios
 
+## Integrantes:
+
+- Carlos Asparrin Martin
+
 ## Funcionalidades:
 - Agregar productos.
 - Quitar productos.
