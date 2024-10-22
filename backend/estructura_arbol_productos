@@ -1,0 +1,21 @@
+digraph {
+	"Almacén"
+	Frutas
+	"Almacén" -> Frutas
+	Frutas_Manzana [label=Manzana]
+	Frutas -> Frutas_Manzana
+	Frutas_Melocoton [label=Melocoton]
+	Frutas -> Frutas_Melocoton
+	Verduras
+	"Almacén" -> Verduras
+	Verduras_Lechuga [label=Lechuga]
+	Verduras -> Verduras_Lechuga
+	Conservas
+	"Almacén" -> Conservas
+	"Conservas_Filete de atún" [label="Filete de atún"]
+	Conservas -> "Conservas_Filete de atún"
+	Granos
+	"Almacén" -> Granos
+	Granos_Avena [label=Avena]
+	Granos -> Granos_Avena
+}
