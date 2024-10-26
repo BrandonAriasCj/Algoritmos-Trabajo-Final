@@ -45,6 +45,54 @@
   - Eliminar una categoría de un árbol.
   - Recorrer un árbol en distintos órdenes (**preorden**, **inorden**, **postorden**).
   - La accesibilidad a las ramificaciones del árbol.
+
+
+--> requerimientos objetivo de la semana :
+
+
+ ARBOLES 
+        -el arbol toma datos directamente de un archivo de texto  (EN CONTEXTO COMPLETADO)
+        -los arboles deben captar los datos  de un archivo de texto  ordenarlo en perecibles y no perecibles .
+        -los arboles ordenan de fecha de antiguo a nuevo.
+
+
+
+        calculo de dias => fecha actual - fecha de vencimiento.
+
+ejemplo   PERECEDERO (de antiguo a nuevo. ) :                       
+      perecederos : manzanas cantidad(8 ) dias(7)  =>  planatnos (8 ) dias (9)  =>   sandias ...
+
+                       1                        ,         2                        , 3
+
+
+ejemplo   NO PERECEDERO (de antiguo a nuevo. ):
+      celular :  nokia cantidad(3) dias(2010) = > samsung s2 cantidad(5)  año(2017) =>  huawei y500 cantidad(8)  año(2024)
+                        1                       ,                2                 ,    3          
+
+
+
+Pilas:
+        -trabajar con no perecederos
+        - murio la idea .
+
+          HUAWEI        , SAMSUNG           ,NOKIA
+          3               ,2                   , 1 
+
+
+Colas:
+        -Trabajar con no perecederos
+        -Almacena los datos filtrados que deben venderse con prioridad de vencimiento, por que capta los que se van a vencer.
+1
+2
+3
+
+
+HTML Y NODE:
+        - investigarr como interactuar con phyton , traslado de datos, inserción de datos y estrutura.
+
+
+
+
 <<<<<<< HEAD:Guia de desarrollo.md
  ***********
 =======
