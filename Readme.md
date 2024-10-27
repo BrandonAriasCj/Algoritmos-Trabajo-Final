@@ -78,6 +78,9 @@ Pilas:
           HUAWEI        , SAMSUNG           ,NOKIA
           3               ,2                   , 1 
 
+Posible uso:
+Usar para filtrar los productos del tiempo de caducidad mayor al menor.
+
 
 Colas:
         -Trabajar con no perecederos
@@ -89,6 +92,7 @@ Colas:
 
 HTML Y NODE:
         - investigarr como interactuar con phyton , traslado de datos, inserción de datos y estrutura.
+
 
 
 
