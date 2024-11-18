@@ -1,1 +1,8 @@
-{'id': 1, 'nombre': 'Manzana', 'tipo': 'perecedero', 'categoria': 'fruta', 'cantidad': 50, 'fech_venc': '2024-10-26'}{'id': 2, 'nombre': 'Arroz', 'tipo': 'no perecedero', 'categoria': 'grano', 'cantidad': 100, 'fech_venc': '2030-01-20'}{'id': 3, 'nombre': 'Leche', 'tipo': 'perecedero', 'categoria': 'lacteo', 'cantidad': 30, 'fech_venc': '2025-11-10'}{'id': 4, 'nombre': 'Lentejas', 'tipo': 'no perecedero', 'categoria': 'grano', 'cantidad': 80, 'fech_venc': '2024-10-26'}{'id': 5, 'nombre': 'Pollo', 'tipo': 'perecedero', 'categoria': 'carnes', 'cantidad': 20, 'fech_venc': '2024-10-27'}{'id': 6, 'nombre': 'Pasta', 'tipo': 'no perecedero', 'categoria': 'pasta', 'cantidad': 60, 'fech_venc': '2027-12-12'}{'id': 7, 'nombre': 'Platano', 'tipo': 'perecedero', 'categoria': 'fruta', 'cantidad': 55, 'fech_venc': '2025-01-12'}{'id': '8', 'nombre': 'Naranja', 'tipo': 'perecedero', 'categoria': 'fruta', 'cantidad': '2', 'fech_venc': '2024-11-15'}{'id': 9, 'nombre': 'Pera', 'tipo': 'perecedero', 'cantidad': 10, 'fech_venc': '2024-11-28'}
+{'id': 1, 'nombre': 'Pera', 'tipo': 'no perecedero', 'cantidad': 20, 'fech_venc': '2024-10-26'}
+{"id": 2, "nombre": "Arroz", "tipo": "no perecedero", "categoria": "grano", "cantidad": 100, "fech_venc": "2030-01-20"}
+{"id": 3, "nombre": "Leche", "tipo": "perecedero", "categoria": "lacteo", "cantidad": 30, "fech_venc": "2025-11-10"}
+{"id": 4, "nombre": "Lentejas", "tipo": "no perecedero", "categoria": "grano", "cantidad": 80, "fech_venc": "2024-10-26"}
+{"id": 5, "nombre": "Pollo", "tipo": "perecedero", "categoria": "carnes", "cantidad": 20, "fech_venc": "2024-10-27"}
+{"id": 6, "nombre": "Pasta", "tipo": "no perecedero", "categoria": "pasta", "cantidad": 60, "fech_venc": "2027-12-12"}
+{"id": 7, "nombre": "Platano", "tipo": "perecedero", "categoria": "fruta", "cantidad": 55, "fech_venc": "2025-01-12"}
+{"id": "8", "nombre": "Naranja", "tipo": "perecedero", "categoria": "fruta", "cantidad": "2", "fech_venc": "2024-11-15"}
