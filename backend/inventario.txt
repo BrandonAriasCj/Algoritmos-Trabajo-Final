@@ -4,12 +4,5 @@
 {"id": 4, "nombre": "Lentejas", "tipo": "no perecedero", "categoria": "grano", "cantidad": 80, "fech_venc": "2024-10-26"}
 {"id": 5, "nombre": "Pollo", "tipo": "perecedero", "categoria": "carnes", "cantidad": 20, "fech_venc": "2024-10-27"}
 {"id": 6, "nombre": "Pasta", "tipo": "no perecedero", "categoria": "pasta", "cantidad": 60, "fech_venc": "2027-12-12"}
-<<<<<<< HEAD:backend/inventario1.txt
-{"id": "7", "nombre": "Pollo", "tipo": "perecedero", "categoria": "carnes", "cantidad": "50", "fech_venc": "2024 -11 - 15"}
-{"id": "", "nombre": "", "tipo": "", "categoria": "", "cantidad": "", "fech_venc": ""}
-{"id": "", "nombre": "", "tipo": "", "categoria": "", "cantidad": "", "fech_venc": ""}
-{"id": "", "nombre": "", "tipo": "", "categoria": "", "cantidad": "", "fech_venc": ""}
-=======
 {"id": 7, "nombre": "Platano", "tipo": "perecedero", "categoria": "fruta", "cantidad": 55, "fech_venc": "2025-01-12"}
 {"id": "8", "nombre": "Naranja", "tipo": "perecedero", "categoria": "fruta", "cantidad": "2", "fech_venc": "2024-11-15"}
->>>>>>> 1c71ea82248e9261fe18de55aa26076b52861e1b:backend/inventario.txt
