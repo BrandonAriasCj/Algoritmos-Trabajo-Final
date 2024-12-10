@@ -1,7 +1,7 @@
 {"nombre": "Manzana", "fech_venc": "2024-12-01", "tipo": "Frutas", "cantidad": 50, "precio": 0.5}
 {"nombre": "Arroz", "fech_venc": "2025-01-01", "tipo": "Cereales", "cantidad": 100, "precio": 1.2}
 {"nombre": "Pollo", "fech_venc": "2024-11-20", "tipo": "Carnes", "cantidad": 30, "precio": 3.5}
-{"nombre": "Lentejas", "fech_venc": "2025-06-15", "tipo": "Cereales", "cantidad": 200, "precio": 1.0}
+{"nombre": "Lentejas", "fech_venc": "2025-12-08", "tipo": "Menestras", "cantidad": 200, "precio": 1.0}
 {"nombre": "Leche", "fech_venc": "2024-12-10", "tipo": "Lácteos", "cantidad": 120, "precio": 1.5}
 {"nombre": "Atún", "fech_venc": "2026-03-22", "tipo": "Conservas", "cantidad": 80, "precio": 2.0}
 {"nombre": "Pera", "fech_venc": "2024-11-30", "tipo": "Frutas", "cantidad": 60, "precio": 0.7}
